@@ -1,7 +1,5 @@
 # Skin Cancer Detection System
 
-![Skin Cancer Detection System Banner](https://raw.githubusercontent.com/username/skin-cancer-detection/main/assets/banner.png)
-
 ## 🔬 Overview
 
 The Skin Cancer Detection System is an advanced AI-powered web application designed to analyze skin lesion images and identify potential skin cancers and other skin conditions. This tool leverages deep learning and computer vision techniques to provide accessible skin lesion screening capabilities.
